@@ -1,4 +1,4 @@
-# Grain8 (Pronounce Gray-Nate)
+# Grain8 (Pronounced Gray-Nate)
 A software you can put on a usb to cause chaos.
 
 ### How to use:
